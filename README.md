@@ -1,1 +1,3 @@
 # SKTCOIN
+
+SKTCOIN Solidity Code
