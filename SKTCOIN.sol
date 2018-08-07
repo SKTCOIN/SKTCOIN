@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 /*
  * SKTCOIN
  *
- * @author icetea-neko and SKTCOIN members.
+ * @author SKT-COIN and SKTCOIN members.
  */
 
 library SafeMath {
